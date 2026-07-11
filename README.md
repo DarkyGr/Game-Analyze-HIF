@@ -1,3 +1,12 @@
+# GA - HIF
+
+Calculate the quantity of each item to have for the Happy Island Fantasy run
+(Read the README)
+
+The numbers in the file_island.dat file must be changed.
+
+The program returns the change for the in-game currency.
+
 # TEInt Calculator
 
 This utility calculates the `v0` and `v1` values used by the `TEInt` structure found in the game's save file.
